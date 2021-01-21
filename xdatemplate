@@ -1,4 +1,4 @@
-[10.0][OFFICIAL]Resurrection Remix v8.x [device_code]
+[10.0][OFFICIAL]Resurrection Remix v8.x for Redmi note 4/4x [mido]
 
 
 [CENTER][IMG="rrlogo"]https://resurrectionremix.com/assets/rrlogo.png[/IMG]
@@ -49,9 +49,9 @@ First boot may take up to 10 minutes.[/B]
 [IMG="rrsource"]https://resurrectionremix.com/assets/rrsource.png[/IMG]
 
 [SIZE="3"][B][URL="https://github.com/ResurrectionRemix"]Resurrection Remix Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Device Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Kernel Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Vendor Source[/URL][/B][/SIZE]
+[URL="https://github.com/shashank1436/device_xiaomi_mido/tree/rr-ten"]Device Source[/URL]
+[URL="https://github.com/shashank1436/kernel_xiaomi_mido"]Kernel Source[/URL]
+[URL="https://github.com/shashank1436/vendor_xiaomi-mido/tree/ten"]Vendor Source[/URL][/B][/SIZE]
 
 
 [IMG="rrthanks"]https://resurrectionremix.com/assets/rrthanks.png[/IMG]
